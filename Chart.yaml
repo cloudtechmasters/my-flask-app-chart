@@ -1,0 +1,4 @@
+apiVersion: v2
+name: my-flask-app
+description: A Helm chart for deploying a Python Flask app with PostgreSQL
+version: 0.1.0
